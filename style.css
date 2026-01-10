@@ -235,7 +235,7 @@ body {
     .graphic {
       position: relative;
       width: 620px;
-      height: 420px;
+      height: 320px;
       background: #f8f9fb;
       border-radius: 20px;
       display: flex;
